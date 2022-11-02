@@ -2,7 +2,7 @@ Record=TopLevelDocument|FileName=01_Block_Diagram.SchDoc|SheetNumber=1
 Record=NoMainPathDocument|SourceDocument=01_Block_Diagram.SchDoc|FileName=02_Power_Diagram.SchDoc|SheetNumber=2
 Record=NoMainPathDocument|SourceDocument=01_Block_Diagram.SchDoc|FileName=03_01_MCU_ESP32_Interface.SchDoc|SheetNumber=4
 Record=NoMainPathDocument|SourceDocument=01_Block_Diagram.SchDoc|FileName=03_02_MCU_STM32F4_Interface.SchDoc|SheetNumber=5
-Record=NoMainPathDocument|SourceDocument=01_Block_Diagram.SchDoc|FileName=03_MCU_Interface.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=01_Block_Diagram.SchDoc|FileName=03_Top.SchDoc|SheetNumber=3
 Record=NoMainPathDocument|SourceDocument=01_Block_Diagram.SchDoc|FileName=04_Ethernet_Interface.SchDoc|SheetNumber=6
 Record=NoMainPathDocument|SourceDocument=01_Block_Diagram.SchDoc|FileName=05_UART_Interface.SchDoc|SheetNumber=7
 Record=NoMainPathDocument|SourceDocument=01_Block_Diagram.SchDoc|FileName=06_Power_Supply.SchDoc|SheetNumber=8
