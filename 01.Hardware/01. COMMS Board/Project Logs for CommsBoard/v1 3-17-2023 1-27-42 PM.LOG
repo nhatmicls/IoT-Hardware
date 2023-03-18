@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=GND Pin=U3-32
+Removed Pin From Net: NetName=ESP_GPIO_34 Pin=U3-33
+Removed Pin From Net: NetName=ESP_GPIO_37 Pin=U3-34
+Removed Pin From Net: NetName=ESP_GPIO_35 Pin=U3-35
+Removed Member From Class: ClassName=07_CAN_Interface Member=C33
+Removed Member From Class: ClassName=05_Ethernet_Interface Member=R32
+Added Pin To Net: NetName=ESP_GPIO_34 Pin=U3-32
+Added Pin To Net: NetName=ESP_GPIO_36 Pin=U3-33
+Added Pin To Net: NetName=ESP_GPIO_35 Pin=U3-34
+Added Pin To Net: NetName=ESP_GPIO_37 Pin=U3-35
+Added Member To Class: ClassName=05_Ethernet_Interface Member=Component C11 4.7uF, 10V
+Added Member To Class: ClassName=05_Ethernet_Interface Member=Component C12 100nF, 16V
+Added Member To Class: ClassName=05_Ethernet_Interface Member=Component C13 10nF, 16V
+Added Member To Class: ClassName=05_Ethernet_Interface Member=Component C14 100nF, 16V
+Added Member To Class: ClassName=05_Ethernet_Interface Member=Component C15 22pF, 50V
+Added Member To Class: ClassName=05_Ethernet_Interface Member=Component C17 100nF, 16V
+Added Member To Class: ClassName=05_Ethernet_Interface Member=Component C18 100nF, 16V
+Added Member To Class: ClassName=05_Ethernet_Interface Member=Component C19 100nF, 16V
+Added Member To Class: ClassName=05_Ethernet_Interface Member=Component C20 100nF, 16V
+Added Member To Class: ClassName=05_Ethernet_Interface Member=Component C21 100nF, 16V
+Added Member To Class: ClassName=05_Ethernet_Interface Member=Component C22 100nF, 16V
+Added Member To Class: ClassName=05_Ethernet_Interface Member=Component C23 100nF, 16V
+Added Member To Class: ClassName=05_Ethernet_Interface Member=Component C26 10uF, 6.3V
+Added Member To Class: ClassName=05_Ethernet_Interface Member=Component C27 10uF, 6.3V
+Added Member To Class: ClassName=05_Ethernet_Interface Member=Component C28 10nF, 16V
+Added Member To Class: ClassName=06_Power_Supply Member=Component C30 Cap Pol SMD
+Added Member To Class: ClassName=07_CAN_Interface Member=Component C34 100nF, 25V
+Added Member To Class: ClassName=07_CAN_Interface Member=Component C36 100nF, 25V
+Added Member To Class: ClassName=07_CAN_Interface Member=Component C38 10nF, 50V
+Added Member To Class: ClassName=07_CAN_Interface Member=Component C40 10nF, 50V
+Added Member To Class: ClassName=06_Power_Supply Member=Component D12 D Schottky
+Added Member To Class: ClassName=06_Power_Supply Member=Component D13 D Schottky
+Added Member To Class: ClassName=05_Ethernet_Interface Member=Component L1 Inductor
+Added Member To Class: ClassName=06_Power_Supply Member=Component L3 1uH, 4A
+Added Member To Class: ClassName=05_Ethernet_Interface Member=Component R20 Resistor
+Added Member To Class: ClassName=05_Ethernet_Interface Member=Component R21 Resistor
+Added Member To Class: ClassName=05_Ethernet_Interface Member=Component R25 Resistor
+Added Member To Class: ClassName=05_Ethernet_Interface Member=Component R26 Resistor
+Added Member To Class: ClassName=05_Ethernet_Interface Member=Component R27 Resistor
+Added Member To Class: ClassName=05_Ethernet_Interface Member=Component R28 Resistor
+Added Member To Class: ClassName=05_Ethernet_Interface Member=Component R29 Resistor
+Added Member To Class: ClassName=06_Power_Supply Member=Component R31 RESISTOR SMD
+Added Member To Class: ClassName=06_Power_Supply Member=Component R33 RESISTOR SMD

@@ -1,0 +1,41 @@
+Removed Member From Class: ClassName=04_ESP32_UART Member=R10
+Change Component Designator: OldDesignator=R28 NewDesignator=R29
+Change Component Designator: OldDesignator=R29 NewDesignator=R30
+Change Component Designator: OldDesignator=R30 NewDesignator=R31
+Change Component Designator: OldDesignator=R31 NewDesignator=R32
+Change Component Designator: OldDesignator=R32 NewDesignator=R33
+Change Component Designator: OldDesignator=R33 NewDesignator=R34
+Change Component Designator: OldDesignator=R34 NewDesignator=R35
+Change Component Designator: OldDesignator=R35 NewDesignator=R36
+Change Component Designator: OldDesignator=R36 NewDesignator=R37
+Change Component Designator: OldDesignator=R37 NewDesignator=R38
+Change Component Designator: OldDesignator=R38 NewDesignator=R39
+Change Component Designator: OldDesignator=R39 NewDesignator=R40
+Change Component Designator: OldDesignator=R40 NewDesignator=R41
+Change Component Designator: OldDesignator=R41 NewDesignator=R42
+Change Component Designator: OldDesignator=R42 NewDesignator=R43
+Change Component Designator: OldDesignator=R43 NewDesignator=R44
+Added Component: Designator=R28(R0603)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=W5100_3V3_D Pin=R28-1
+Added Pin To Net: NetName=+3.3V Pin=R28-2
+Change Net Name : Old Net Name=NetR28_2 New Net Name=NetR29_2
+Change Net Name : Old Net Name=NetR29_1 New Net Name=NetR30_1
+Change Net Name : Old Net Name=NetR31_2 New Net Name=NetR32_2
+Change Net Name : Old Net Name=NetR36_2 New Net Name=NetR37_2
+Change Net Name : Old Net Name=NetR38_2 New Net Name=NetR39_2
+Change Net Name : Old Net Name=NetR40_1 New Net Name=NetR41_1
+Change Net Name : Old Net Name=NetR42_2 New Net Name=NetR43_2
+Added Member To Class: ClassName=03_MCU_ESP32_Interface Member=Component R8 RESISTOR SMD
+Added Member To Class: ClassName=03_MCU_ESP32_Interface Member=Component R9 RESISTOR SMD
+Added Member To Class: ClassName=03_MCU_ESP32_Interface Member=Component R10 RESISTOR SMD
+Added Member To Class: ClassName=03_MCU_ESP32_Interface Member=Component R11 RESISTOR SMD
+Added Member To Class: ClassName=04_ESP32_UART Member=Component R12 RESISTOR SMD
+Added Member To Class: ClassName=04_ESP32_UART Member=Component R17 RESISTOR SMD
+Added Member To Class: ClassName=05_Ethernet_Interface Member=Component R22 Resistor
+Added Member To Class: ClassName=05_Ethernet_Interface Member=Component R23 Resistor
+Added Member To Class: ClassName=05_Ethernet_Interface Member=Component R28 Resistor
+Added Member To Class: ClassName=05_Ethernet_Interface Member=Component R29 Resistor
+Added Member To Class: ClassName=07_CAN_Interface Member=Component R40 RESISTOR SMD
+Added Member To Class: ClassName=07_CAN_Interface Member=Component R43 RESISTOR SMD
+Added Member To Class: ClassName=07_CAN_Interface Member=Component R44 RESISTOR SMD

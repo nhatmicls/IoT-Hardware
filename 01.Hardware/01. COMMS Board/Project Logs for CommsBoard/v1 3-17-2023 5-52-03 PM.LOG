@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=+3.3V Pin=U3-28
+Removed Member From Class: ClassName=05_Ethernet_Interface Member=C31
+Removed Member From Class: ClassName=06_Power_Supply Member=C37
+Added Pin To Net: NetName=W5100_3V3_D Pin=U3-28
+Added Member To Class: ClassName=05_Ethernet_Interface Member=Component C16 10nF, 100V
+Added Member To Class: ClassName=05_Ethernet_Interface Member=Component C17 22pF, 50V
+Added Member To Class: ClassName=05_Ethernet_Interface Member=Component C21 22pF, 50V
+Added Member To Class: ClassName=05_Ethernet_Interface Member=Component C22 100nF, 16V
+Added Member To Class: ClassName=05_Ethernet_Interface Member=Component C24 100nF, 16V
+Added Member To Class: ClassName=05_Ethernet_Interface Member=Component C26 100nF, 16V
+Added Member To Class: ClassName=05_Ethernet_Interface Member=Component C27 100nF, 16V
+Added Member To Class: ClassName=05_Ethernet_Interface Member=Component C29 10uF, 6.3V
+Added Member To Class: ClassName=05_Ethernet_Interface Member=Component C30 10nF, 16V
+Added Member To Class: ClassName=06_Power_Supply Member=Component C32 Cap Pol SMD
+Added Member To Class: ClassName=06_Power_Supply Member=Component C33 100nF, 25V
+Added Member To Class: ClassName=06_Power_Supply Member=Component C34 Tantalum Capacitor
+Added Member To Class: ClassName=07_CAN_Interface Member=Component C36 100nF, 25V
+Added Member To Class: ClassName=07_CAN_Interface Member=Component C38 100nF, 25V
+Added Member To Class: ClassName=07_CAN_Interface Member=Component C40 10nF, 50V

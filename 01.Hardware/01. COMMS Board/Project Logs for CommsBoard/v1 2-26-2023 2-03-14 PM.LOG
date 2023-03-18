@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=+3.3V_IN_HEADER Pin=P2-2
+Removed Pin From Net: NetName=12V_SUPPLY_IN_HEADER Pin=P2-3
+Removed Member From Class: ClassName=06_Power_Supply Member=D15
+Removed Member From Class: ClassName=06_Power_Supply Member=P3
+Added Pin To Net: NetName=12V_SUPPLY_IN_HEADER Pin=P2-2
+Added Pin To Net: NetName=+3.3V_IN_HEADER Pin=P2-3
+Added Member To Class: ClassName=06_Power_Supply Member=Component C33 100nF, 25V
+Added Member To Class: ClassName=06_Power_Supply Member=Component D8 D Schottky
+Added Member To Class: ClassName=06_Power_Supply Member=Component D10 D Schottky
+Added Member To Class: ClassName=06_Power_Supply Member=Component D11 D Schottky
+Added Member To Class: ClassName=06_Power_Supply Member=Component D12 D Schottky
+Added Member To Class: ClassName=06_Power_Supply Member=Component P2 61300821121
+Added Member To Class: ClassName=06_Power_Supply Member=Component TP1 Test point
+Added Member To Class: ClassName=06_Power_Supply Member=Component TP2 Test point
+Added Member To Class: ClassName=06_Power_Supply Member=Component TP3 Test point
+Added Member To Class: ClassName=06_Power_Supply Member=Component TP4 Test point

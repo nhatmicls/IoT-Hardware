@@ -1,0 +1,54 @@
+Removed Member From Class: ClassName=03_MCU_ESP32_Interface Member=C9
+Removed Member From Class: ClassName=05_Ethernet_Interface Member=C31
+Removed Member From Class: ClassName=03_MCU_ESP32_Interface Member=R15
+Removed Member From Class: ClassName=04_ESP32_UART Member=R20
+Removed Member From Class: ClassName=05_Ethernet_Interface Member=R31
+Removed Member From Class: ClassName=06_Power_Supply Member=R37
+Added Member To Class: ClassName=03_MCU_ESP32_Interface Member=Component C2 100nF, 50V
+Added Member To Class: ClassName=03_MCU_ESP32_Interface Member=Component C4 10uF, 50V
+Added Member To Class: ClassName=03_MCU_ESP32_Interface Member=Component C6 100nF, 50V
+Added Member To Class: ClassName=04_ESP32_UART Member=Component C8 10uF, 6.3V
+Added Member To Class: ClassName=05_Ethernet_Interface Member=Component C10 100nF, 16V
+Added Member To Class: ClassName=05_Ethernet_Interface Member=Component C12 100nF, 16V
+Added Member To Class: ClassName=05_Ethernet_Interface Member=Component C14 100nF, 16V
+Added Member To Class: ClassName=05_Ethernet_Interface Member=Component C16 22pF, 50V
+Added Member To Class: ClassName=05_Ethernet_Interface Member=Component C17 100nF, 16V
+Added Member To Class: ClassName=05_Ethernet_Interface Member=Component C19 100nF, 16V
+Added Member To Class: ClassName=05_Ethernet_Interface Member=Component C21 100nF, 16V
+Added Member To Class: ClassName=05_Ethernet_Interface Member=Component C23 100nF, 16V
+Added Member To Class: ClassName=05_Ethernet_Interface Member=Component C25 10uF, 6.3V
+Added Member To Class: ClassName=05_Ethernet_Interface Member=Component C27 10uF, 6.3V
+Added Member To Class: ClassName=05_Ethernet_Interface Member=Component C29 10nF, 16V
+Added Member To Class: ClassName=06_Power_Supply Member=Component C30 Cap Pol SMD
+Added Member To Class: ClassName=06_Power_Supply Member=Component C32 100nF, 25V
+Added Member To Class: ClassName=06_Power_Supply Member=Component C33 Tantalum Capacitor
+Added Member To Class: ClassName=07_CAN_Interface Member=Component C35 100nF, 25V
+Added Member To Class: ClassName=07_CAN_Interface Member=Component C37 100nF, 25V
+Added Member To Class: ClassName=07_CAN_Interface Member=Component C39 10nF, 50V
+Added Member To Class: ClassName=03_MCU_ESP32_Interface Member=Component R5 RESISTOR SMD
+Added Member To Class: ClassName=03_MCU_ESP32_Interface Member=Component R7 RESISTOR SMD
+Added Member To Class: ClassName=03_MCU_ESP32_Interface Member=Component R8 RESISTOR SMD
+Added Member To Class: ClassName=03_MCU_ESP32_Interface Member=Component R9 RESISTOR SMD
+Added Member To Class: ClassName=03_MCU_ESP32_Interface Member=Component R11 RESISTOR SMD
+Added Member To Class: ClassName=03_MCU_ESP32_Interface Member=Component R12 RESISTOR SMD
+Added Member To Class: ClassName=04_ESP32_UART Member=Component R14 RESISTOR SMD
+Added Member To Class: ClassName=04_ESP32_UART Member=Component R16 RESISTOR SMD
+Added Member To Class: ClassName=04_ESP32_UART Member=Component R17 RESISTOR SMD
+Added Member To Class: ClassName=04_ESP32_UART Member=Component R19 RESISTOR SMD
+Added Member To Class: ClassName=05_Ethernet_Interface Member=Component R20 Resistor
+Added Member To Class: ClassName=05_Ethernet_Interface Member=Component R21 Resistor
+Added Member To Class: ClassName=05_Ethernet_Interface Member=Component R22 Resistor
+Added Member To Class: ClassName=05_Ethernet_Interface Member=Component R24 Resistor
+Added Member To Class: ClassName=05_Ethernet_Interface Member=Component R25 Resistor
+Added Member To Class: ClassName=05_Ethernet_Interface Member=Component R27 Resistor
+Added Member To Class: ClassName=05_Ethernet_Interface Member=Component R28 Resistor
+Added Member To Class: ClassName=05_Ethernet_Interface Member=Component R30 Resistor
+Added Member To Class: ClassName=06_Power_Supply Member=Component R31 RESISTOR SMD
+Added Member To Class: ClassName=06_Power_Supply Member=Component R32 RESISTOR SMD
+Added Member To Class: ClassName=06_Power_Supply Member=Component R34 RESISTOR SMD
+Added Member To Class: ClassName=07_CAN_Interface Member=Component R36 RESISTOR SMD
+Added Member To Class: ClassName=07_CAN_Interface Member=Component R38 RESISTOR SMD
+Added Member To Class: ClassName=07_CAN_Interface Member=Component R39 RESISTOR SMD
+Added Member To Class: ClassName=07_CAN_Interface Member=Component R40 RESISTOR SMD
+Added Member To Class: ClassName=07_CAN_Interface Member=Component R42 RESISTOR SMD
+Added Member To Class: ClassName=07_CAN_Interface Member=Component R43 RESISTOR SMD
