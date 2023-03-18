@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=ESP_GPIO_35 Pin=U3-34
-Removed Pin From Net: NetName=ESP_GPIO_37 Pin=U3-35
-Added Pin To Net: NetName=ESP_GPIO_37 Pin=U3-34
-Added Pin To Net: NetName=ESP_GPIO_35 Pin=U3-35
