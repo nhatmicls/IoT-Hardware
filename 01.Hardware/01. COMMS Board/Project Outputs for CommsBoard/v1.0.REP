@@ -2,6 +2,150 @@
 FileName = v1.0.GBR
 AutoAperture = True
 *************************************************************
+Generating : Keep-Out Layer
+      File : v1.0.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : v1.0.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D13
+    D15
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : v1.0.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D25
+    D29
+    D45
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : v1.0.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D58
+    D62
+    D78
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : v1.0.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+*************************************************************
+
+*************************************************************
 Generating : Top Paste
       File : v1.0.GTP
 
@@ -69,8 +213,8 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Layer
-      File : v1.0.GTL
+Generating : Top Pad Master
+      File : v1.0.GPT
 
     Adding Layer      : Top Layer
 
@@ -78,8 +222,6 @@ Generating : Top Layer
 
 
 Used DCodes :
-    D11
-    D15
     D20
     D21
     D22
@@ -113,7 +255,6 @@ Used DCodes :
     D50
     D51
     D52
-    D105
     D106
     D107
     D108
@@ -132,33 +273,6 @@ Used DCodes :
     D121
     D122
     D123
-    D124
-    D125
-*************************************************************
-
-*************************************************************
-Generating : Int1 (GND)
-      File : v1.0.G1
-
-    Adding Layer      : Int1 (GND)
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D11
-    D15
-    D106
-    D109
-    D112
-    D114
-    D115
-    D116
-    D117
-    D120
-    D121
-    D124
-    D125
 *************************************************************
 
 *************************************************************
@@ -258,152 +372,33 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Solder
-      File : v1.0.GTS
+Generating : Int1 (GND)
+      File : v1.0.G1
 
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
+    Adding Layer      : Int1 (GND)
 
     Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
-    D75
-    D76
-    D77
-    D78
-    D79
-    D80
-    D81
-    D82
-    D83
-    D84
-    D85
-    D86
-    D87
-    D88
-    D89
-    D90
-    D91
-    D92
-    D93
-    D94
-    D95
-    D96
-    D97
-    D98
-    D99
-    D100
-    D101
-    D102
-    D103
-    D104
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : v1.0.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D58
-    D62
-    D78
-    D86
-    D87
-    D88
-    D89
-    D90
-    D91
-    D92
-    D93
-    D94
-    D95
-    D96
-    D97
-    D98
-    D99
-    D100
-    D101
-    D102
-    D103
-    D104
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : v1.0.GKO
-
-    Adding Layer      : Keep-Out Layer
 
 
 Used DCodes :
     D11
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : v1.0.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D10
-    D13
     D15
-    D17
+    D106
+    D109
+    D112
+    D114
+    D115
+    D116
+    D117
+    D120
+    D121
+    D124
+    D125
 *************************************************************
 
 *************************************************************
-Generating : Bottom Paste
-      File : v1.0.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D25
-    D29
-    D45
-*************************************************************
-
-*************************************************************
-Generating : Top Pad Master
-      File : v1.0.GPT
+Generating : Top Layer
+      File : v1.0.GTL
 
     Adding Layer      : Top Layer
 
@@ -411,6 +406,8 @@ Generating : Top Pad Master
 
 
 Used DCodes :
+    D11
+    D15
     D20
     D21
     D22
@@ -444,6 +441,7 @@ Used DCodes :
     D50
     D51
     D52
+    D105
     D106
     D107
     D108
@@ -462,6 +460,8 @@ Used DCodes :
     D121
     D122
     D123
+    D124
+    D125
 *************************************************************
 
 *************************************************************

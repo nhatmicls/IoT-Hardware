@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : E:\Project\IoT-Hardware\01.Hardware\01. COMMS Board\v1.0.PcbDoc
-Date     : 3/19/2023
-Time     : 6:59:48 PM
+Date     : 3/20/2023
+Time     : 9:33:43 AM
 
 Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
 Rule Violations :0
@@ -73,4 +73,4 @@ Rule Violations :0
 
 Violations Detected : 28
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02
